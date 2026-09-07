@@ -73,7 +73,7 @@ Python을 기반으로 **데이터 수집 자동화, ETL 파이프라인, API �
 
 `Web Crawling / API → Airflow → Data Processing → PostgreSQL → Search Service`
 
-🔗 **Repository:** `YOUR_REPOSITORY_URL`
+🔗 **Repository:** `https://github.com/cjw1645/boardgame_finder`
 
 ---
 
@@ -99,7 +99,7 @@ Icecat Product API를 분석하여 제품별 `featuregroups` 데이터를 수집
 
 `Product ID → Icecat API → Feature Extraction → Transform → Structured Data`
 
-🔗 **Repository:** `YOUR_REPOSITORY_URL`
+🔗 **Repository:** `https://github.com/cjw1645/buildflow`
 
 ---
 

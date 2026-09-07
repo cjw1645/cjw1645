@@ -1,57 +1,42 @@
-<div align="center">
+🛠 Tech Stack
+Data Engineering
 
-cjw1645
-Data Engineer
+<p> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/> </p>
 
-Data Pipeline · ETL · Data Engineering
+Database
 
-<br>
+<p> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/PostGIS-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=flat-square&logo=amazonredshift&logoColor=white"/> </p>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+Cloud & Infrastructure
 
-</div>
+<p> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/> <img src="https://img.shields.io/badge/AWS%20Glue-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> </p>
 
-<br>
+Tools & Service
 
-<br>
-
-## 🛠 Tech Stack
-
-### Data Engineering & Backend
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20API-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-</p>
-
-### Database
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-</p>
-
-### Infrastructure & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</p>
-
-### Data Analysis & Machine Learning
-
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-</p>
+<p> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Redash-FF7964?style=flat-square&logo=redash&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/> </p>
 
 <br>
 
-# 🚀 Projects
+🚀 Projects
+⟠ Ethereum Whale Transaction Detection & Anomaly Analysis
+
+대규모 Ethereum 온체인 데이터를 수집·처리하여 이상 거래를 분석하는 End-to-End Data Pipeline
+
+Python Airflow AWS S3 AWS Glue Redshift Redash
+
+Airflow DAG를 활용한 외부 API 데이터 수집 및 AWS S3 적재 자동화
+JSON 원시 데이터를 분석에 적합한 Parquet 포맷으로 변환하는 ETL Pipeline 구축
+AWS Glue Data Catalog 및 Redshift 기반 분석 데이터 구조 설계
+Redash를 활용한 이상 거래 분석 및 시각화
+실시간 데이터와 대용량 과거 데이터 수집 파이프라인 분리
+데이터 유효성 검사 및 오류 데이터 격리를 통한 Pipeline 안정성 개선
+외부 API 장애가 전체 시스템으로 확산되지 않도록 수집/처리 계층 분리
+
+Pipeline
+
+External APIs → Airflow → AWS S3 → AWS Glue → Redshift → Redash
+
+🔗 Repository: YOUR_ETHEREUM_REPOSITORY_URL
 
 ## 🎲 Board Game Cafe Data Platform
 
@@ -105,19 +90,10 @@ Icecat Product API를 분석하여 제품별 `featuregroups` 데이터를 수집
 
 ---
 
-# 📚 Currently Learning
+<br>
 
-<p>
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-</p>
+🎯 Engineering Interests
 
-* Airflow를 활용한 데이터 파이프라인 Orchestration
-* Docker 기반 데이터 엔지니어링 개발 환경 구축
-* AWS 기반 데이터 파이프라인 배포
-* PostgreSQL 데이터 모델링 및 Query Optimization
-* ETL Pipeline의 Logging / Monitoring / Error Handling
+Data Pipeline · ETL / ELT · Workflow Orchestration · Data Modeling · Data Quality · Cloud Data Engineering
 
 <br>

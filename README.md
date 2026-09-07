@@ -77,7 +77,7 @@
 
 `External APIs → Airflow → Amazon S3 → AWS Glue → Redshift → Redash`
 
-🔗 **Repository:** `[YOUR_ETHEREUM_REPOSITORY_URL](https://github.com/DE6-TEAM6-Mars/ProjectMars)`
+🔗 **Repository:** `https://github.com/DE6-TEAM6-Mars/ProjectMars`
 
 ---
 
@@ -99,7 +99,7 @@
 
 `Web Crawling → Airflow → PostgreSQL / PostGIS → pgvector → RAG → Streamlit`
 
-🔗 **Repository:** `[YOUR_BOARDGAME_REPOSITORY_URL](https://github.com/cjw1645/boardgame_finder#)`
+🔗 **Repository:** `https://github.com/cjw1645/boardgame_finder`
 
 ---
 
@@ -119,7 +119,7 @@
 
 `Product ID → Icecat API → Extract → Transform → Structured Data`
 
-🔗 **Repository:** `[YOUR_ICECAT_REPOSITORY_URL](https://github.com/cjw1645/buildflow)`
+🔗 **Repository:** `https://github.com/cjw1645/buildflow`
 
 <br>
 
